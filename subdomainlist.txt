@@ -1,0 +1,16 @@
+mail
+ftp
+admin
+local
+administrator
+localhost
+images
+support
+news
+video
+drive
+blog
+photo
+photos
+image
+test
